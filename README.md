@@ -2,7 +2,7 @@
 #### Reg no : 212222110045
 #### Date : 
 
-## EX - 8 : Implementation of RSA
+## EX - 9 : Implementation of RSA
 
 ### Aim:
 To implement RSA encrytion algorithm
@@ -87,4 +87,4 @@ int main() {
 
 
 ### Result
-Implementation of RSA Encryption algorithm was successfull.
+Implementation of RSA Encryption algorithm was successful.
