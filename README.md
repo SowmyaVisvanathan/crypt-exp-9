@@ -8,7 +8,7 @@
 To implement RSA encrytion algorithm
 
 ### Algorithm
-```
+
 STEP-1: Select two co-prime numbers as p and q.
 
 STEP-2: Compute n as the product of p and q.
@@ -22,7 +22,8 @@ STEP-5: Compute the private key, d as e * mod-1(z).
 STEP-6: The cipher text is computed as messagee *
 
 STEP-7: Decryption is done as cipherdmod n.
-```
+
+
 ### Program:
 ```
 #include <stdio.h>
